@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-uo4o(l8mp%@)pb#a8mtg*r^a=&hi@8#cvl&7g*je&2(zi_#o*l
 DEBUG = False
 
 ALLOWED_HOSTS = [
-'https://hng0g-form.herokuapp.com',
+'hng0g-form.herokuapp.com',
     '127.0.0.1',
 ]
 
